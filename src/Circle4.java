@@ -16,10 +16,10 @@ import javax.swing.Timer;
  *
  */
 public class Circle4 {
-	private static int x = 400;
-	private static int y = 300;
-	private static int frameX = 0;
-	private static int frameY = 0;
+	private int x = 400;
+	private int y = 300;
+	private int frameX = 0;
+	private int frameY = 0;
 
 	/**
 	 * Kreiranje frame-a na koji se lijepi i testira myPanel
